@@ -21,3 +21,26 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+APIMediator/V2/Gtwave.App.Api/bin/
+APIMediator/V2/Gtwave.App.Api/obj/
+APIMediator/V2/Gtwave.App.Application/bin/
+APIMediator/V2/Gtwave.App.Documents/bin/
+APIMediator/V2/Gtwave.App.Domain/bin/
+APIMediator/V2/Gtwave.App.Infrastructure/bin/
+APIMediator/V2/Tests/Gtwave.App.Api.Tests/bin/
+APIMediator/V2/Gtwave.App.Application/obj/
+APIMediator/V2/Gtwave.App.Documents/obj/
+APIMediator/V2/Gtwave.App.Domain/obj/
+APIMediator/V2/Gtwave.App.Infrastructure/obj/
+APIMediator/V2/Tests/Gtwave.App.Api.Tests/obj/
+APIMediator/V2/Sipe.ONR.Application/obj/
+APIMediator/V2/Sipe.ONR.Domain/obj/Gtwave.App.Domain.csproj.nuget.dgspec.json
+APIMediator/V2/Sipe.ONR.Domain/obj/
+APIMediator/V2/Sipe.ONR.Infrastructure/obj/
+APIMediator/V2/Tests/Gtwave.App.Application/bin/
+APIMediator/V2/Tests/Gtwave.App.Application/obj/Gtwave.App.Application.Tests.csproj.nuget.dgspec.json
+APIMediator/V2/Tests/Gtwave.App.Application/obj/
+APIMediator/V2/Tests/Gtwave.App.Domain.Tests/bin/
+APIMediator/V2/Tests/Gtwave.App.Domain.Tests/obj/
+APIMediator/V2/Tests/Gtwave.App.Infrastructure.Tests/bin/
+APIMediator/V2/Tests/Gtwave.App.Infrastructure.Tests/obj/

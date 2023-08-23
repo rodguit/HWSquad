@@ -1,0 +1,14 @@
+# Domain Models
+
+## User
+
+```json
+{
+    "Id": "1",
+    "IdCartorio": "1",
+    "NomeUsuario":"teste",
+    "Email":"teste@teste.com",
+    "senha":"onrTest01"
+}
+```
+> Note: Passwords shouldn't be laying  
